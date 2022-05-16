@@ -1,2 +1,1 @@
-Hi !
 Another line
